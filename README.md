@@ -4,9 +4,7 @@
 
 ![Portfolio Website](https://i.ibb.co/WgPMpts/image.png)
 
-This is a code repository. Your portfolio is your resume and your business card.
-
-In this video, we will create a full Personal Development Portfolio. We're going to use React and Next.js.
+This is a code repository. Your portfolio is your resume and your business card
 
 Setup:
 - run ```npm i && npm start```
